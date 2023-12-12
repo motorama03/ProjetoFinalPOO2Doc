@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"annotations"},{"l":"arvorePrim"},{"l":"BellmanFord"},{"l":"dijkstra"},{"l":"enuns"},{"l":"FloydWarshall"},{"l":"graph"},{"l":"graphCore"},{"l":"screen"},{"l":"searchGraph"},{"l":"searchGraphCore"}];updateSearchResults();
